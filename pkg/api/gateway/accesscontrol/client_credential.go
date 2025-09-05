@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	httputil "github.com/akuity/api-client-go/pkg/utils/http"
+	httputil "github.com/akuityio/akuity-platform/pkg/utils/http"
 )
 
 type ClientCredential interface {

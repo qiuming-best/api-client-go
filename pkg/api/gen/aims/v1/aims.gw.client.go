@@ -6,8 +6,8 @@ package aimsv1
 import (
 	context "context"
 	fmt "fmt"
-	v1 "github.com/akuity/api-client-go/pkg/api/gen/organization/v1"
 	gateway "github.com/akuity/grpc-gateway-client/pkg/grpc/gateway"
+	v1 "github.com/akuityio/akuity-platform/pkg/api/gen/organization/v1"
 	httpbody "google.golang.org/genproto/googleapis/api/httpbody"
 	url "net/url"
 )
