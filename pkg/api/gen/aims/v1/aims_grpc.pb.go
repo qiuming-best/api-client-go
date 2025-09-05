@@ -8,7 +8,7 @@ package aimsv1
 
 import (
 	context "context"
-	v1 "github.com/akuity/api-client-go/pkg/api/gen/organization/v1"
+	v1 "github.com/akuityio/akuity-platform/pkg/api/gen/organization/v1"
 	httpbody "google.golang.org/genproto/googleapis/api/httpbody"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"

@@ -7,7 +7,7 @@
 package userv1
 
 import (
-	v1 "github.com/akuity/api-client-go/pkg/api/gen/types/events/v1"
+	v1 "github.com/akuityio/akuity-platform/pkg/api/gen/types/events/v1"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"

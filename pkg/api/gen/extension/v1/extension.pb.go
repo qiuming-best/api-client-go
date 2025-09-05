@@ -7,11 +7,11 @@
 package extensionv1
 
 import (
-	v11 "github.com/akuity/api-client-go/pkg/api/gen/argocd/v1"
-	v13 "github.com/akuity/api-client-go/pkg/api/gen/kargo/v1"
-	v1 "github.com/akuity/api-client-go/pkg/api/gen/organization/v1"
-	v14 "github.com/akuity/api-client-go/pkg/api/gen/types/features/v1"
-	v12 "github.com/akuity/api-client-go/pkg/api/gen/types/misc/v1"
+	v11 "github.com/akuityio/akuity-platform/pkg/api/gen/argocd/v1"
+	v13 "github.com/akuityio/akuity-platform/pkg/api/gen/kargo/v1"
+	v1 "github.com/akuityio/akuity-platform/pkg/api/gen/organization/v1"
+	v14 "github.com/akuityio/akuity-platform/pkg/api/gen/types/features/v1"
+	v12 "github.com/akuityio/akuity-platform/pkg/api/gen/types/misc/v1"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	httpbody "google.golang.org/genproto/googleapis/api/httpbody"
 	_ "google.golang.org/genproto/googleapis/api/visibility"
