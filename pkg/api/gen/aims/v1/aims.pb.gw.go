@@ -14,7 +14,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/akuity/api-client-go/pkg/api/gen/organization/v1"
+	"github.com/akuityio/akuity-platform/pkg/api/gen/organization/v1"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 	"github.com/grpc-ecosystem/grpc-gateway/v2/utilities"
 	"google.golang.org/grpc"
